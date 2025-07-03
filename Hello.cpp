@@ -1,4 +1,4 @@
-//�쐬�� :chatgpt
+//ì¬ŽÒ :chatgpt
 
 #include <windows.h>
 #include <iostream>
@@ -94,7 +94,7 @@ int main() {
         if (i > 0) break;
     }
 
-    ShellExecute(0, 0, L"https://x.com/kyougi_oshima", 0, 0, SW_SHOW);
+    ShellExecute(0, 0, L"https://x.com/kyogi_315", 0, 0, SW_SHOW);
 
     Sleep(100);
     system("cls"); 
